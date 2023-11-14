@@ -3,4 +3,4 @@
 - 3e jaar natuurwetenschappen STEAM
     - [Informatica](/3NWSTb/2023-2024/INFORMATICA/)
     - [Nederlands](/3NWSTb/2023-2024/NEDERLANDS/)
-    - [Biologie](/3NWSTb/2023-2024/NATUURWETENSCHAPPEN/)
+    - [Biologie](/3NWSTb/2023-2024/BIOLOGIE/)
