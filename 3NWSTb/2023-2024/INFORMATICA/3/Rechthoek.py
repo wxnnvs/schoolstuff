@@ -1,3 +1,3 @@
-lengte = int(input("legnte?  "))
-hoogte = int(input("hoogte?  "))
+lengte = float(input("legnte?  "))
+hoogte = float(input("hoogte?  "))
 print(str(lengte*hoogte) + "cm²")
