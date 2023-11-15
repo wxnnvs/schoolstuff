@@ -5,6 +5,7 @@ vijf = (verbruik/20)*prijs
 vijftwintig = (verbruik/4)*prijs
 honderd = verbruik*prijs
 
+print("kostprijs")
 print("5km = €", vijf)
 print("25km = €", vijftwintig)
 print("100km = €", honderd)
