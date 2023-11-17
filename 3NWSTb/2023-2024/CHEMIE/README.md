@@ -1,0 +1,1 @@
+Sint-Barbaracollege is fire
